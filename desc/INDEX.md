@@ -10,6 +10,7 @@
 | [AGENTS_GUIDE.md](./AGENTS_GUIDE.md) | 28 个 Agent 详细说明 | 20 分钟 |
 | [AGENTS_CHEATSHEET.md](./AGENTS_CHEATSHEET.md) | Agent 速查卡 | 2 分钟 |
 | [HOW_AGENTS_WORK.md](./HOW_AGENTS_WORK.md) | Agent 实现原理 | 15 分钟 |
+| [HOW_COMMANDS_WORK.md](./HOW_COMMANDS_WORK.md) | Command 实现原理 | 15 分钟 |
 | [AGENTS_WORKFLOW_DIAGRAM.md](./AGENTS_WORKFLOW_DIAGRAM.md) | 工作流程图解 | 10 分钟 |
 | [HOW_TO_USE_AGENTS.md](./HOW_TO_USE_AGENTS.md) | **Agents 使用指南** ⭐ | 15 分钟 |
 | [USAGE_EXAMPLES.md](./USAGE_EXAMPLES.md) | **实战示例** ⭐ | 20 分钟 |
@@ -30,7 +31,7 @@ README.md ──► ARCHITECTURE.md ──► AGENTS_GUIDE.md
 
 ### 路径 3: 技术实现 (45 分钟)
 ```
-HOW_AGENTS_WORK.md ──► AGENTS_WORKFLOW_DIAGRAM.md
+HOW_AGENTS_WORK.md ──► HOW_COMMANDS_WORK.md ──► AGENTS_WORKFLOW_DIAGRAM.md
 ```
 
 ### 路径 4: 上手使用 (1 小时) ⭐ 推荐
@@ -41,7 +42,7 @@ QUICK_START.md ──► HOW_TO_USE_AGENTS.md ──► USAGE_EXAMPLES.md
 ### 路径 5: 完整掌握 (3 小时)
 ```
 QUICK_START.md ──► README.md ──► ARCHITECTURE.md ──► 
-AGENTS_GUIDE.md ──► HOW_AGENTS_WORK.md ──► AGENTS_WORKFLOW_DIAGRAM.md ──►
+AGENTS_GUIDE.md ──► HOW_AGENTS_WORK.md ──► HOW_COMMANDS_WORK.md ──► AGENTS_WORKFLOW_DIAGRAM.md ──►
 HOW_TO_USE_AGENTS.md ──► USAGE_EXAMPLES.md
 ```
 
@@ -60,6 +61,7 @@ HOW_TO_USE_AGENTS.md ──► USAGE_EXAMPLES.md
 - **AGENTS_GUIDE.md** - 28 个 Agent 的完整说明
 - **AGENTS_CHEATSHEET.md** - 快速参考卡片
 - **HOW_AGENTS_WORK.md** - 实现原理和技术细节
+- **HOW_COMMANDS_WORK.md** - Commands 的实现方式与执行链路
 - **AGENTS_WORKFLOW_DIAGRAM.md** - 可视化流程图解
 
 ### 使用实战类 ⭐
@@ -74,6 +76,6 @@ HOW_TO_USE_AGENTS.md ──► USAGE_EXAMPLES.md
 |------|--------|--------|
 | 项目介绍 | 2 | 471 |
 | 架构设计 | 1 | 249 |
-| Agent 专题 | 4 | 1,008 |
+| Agent 专题 | 5 | 1,300+ |
 | 使用实战 | 2 | 1,500+ |
-| **总计** | **9** | **~3,200** |
+| **总计** | **10** | **~3,600** |
